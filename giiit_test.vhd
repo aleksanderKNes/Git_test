@@ -5,3 +5,4 @@ use IEEE.std_logic_unsigned.all;
 
 
 --tester å endre for git
+--tester å endre branch
