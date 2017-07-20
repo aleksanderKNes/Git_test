@@ -1,1 +1,3 @@
 Edited on github
+
+Edited in ubuntu terminal and pushed
