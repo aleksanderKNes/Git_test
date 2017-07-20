@@ -2,4 +2,6 @@ Edited on github
 
 Edited in ubuntu terminal and pushed
 
-Edited in a branch
+Edited in a 
+
+Edited in branch again and removed the word branch in previous sentence.
